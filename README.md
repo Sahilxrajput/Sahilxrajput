@@ -51,7 +51,7 @@
 </p>
 
 ## 🧡 Fuel my Coding with Caffeine
- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Chai-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/sahil-rajput)
+ [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Chai-orange?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/sahilxrajput)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanishka-commits/kanishka-commits/output/github-snake-dark.svg" />
